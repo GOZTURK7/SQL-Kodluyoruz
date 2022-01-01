@@ -1,6 +1,8 @@
 
-/.docx
-/.png
+*.docx
+*.png
+*.jpg
+*.DS_Store
 
 # http://www.gnu.org/software/automake
 
