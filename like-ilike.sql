@@ -48,4 +48,4 @@ where first_name not like 'A%'; -- like ile ( -- ) aynı şeyler bazı programla
 select * from actor
 where first_name like'P%';
 
-
+select * from customer;
